@@ -2,7 +2,13 @@
 
 <!--
 **rainerrodrigues/rainerrodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I have an interest in Mechatronics and Artificial Intelligence.
+I have interests in 
+1. SLAM
+2. PINNs
+3. Computer Vision
+4. FEA
+5. More...
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
