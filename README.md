@@ -1,6 +1,11 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZlNmJpeXNha3p4NnZldzZmY3NxdnJ2cGdvbTRqY29na3EzMnVteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cENTTQmqUOfN1OUzCI/giphy.gif" width="100"/>
+</div>
+
 ### Hi there 👋
 
-Glad to see you stalking my coding work!
+
+Glad to see you stalking my coding work! 
 Let me introduce myself!
 I have an interest in Mechatronics and Artificial Intelligence.
 I have interests in 
