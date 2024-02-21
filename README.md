@@ -29,6 +29,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://bitgrit.net/profile/Rainer_Rodrigues" target="blank"><img align="center" src="" alt="Rainer_Rodrigues" height="30" width="40" /></a>
+<a href="https://machinehack.com/user/5ef0a238b7efcc325e391f94" target="blank"><img align="center" src="file:///C:/Users/Rainer/Downloads/365datascience.svg" alt="rainerrodrigues" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/rainer-rodrigues-24025114a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rainer-rodrigues-24025114a" height="30" width="40" /></a>
 <a href="https://kaggle.com/triplerrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="triplerrr" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rainer_99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rainer_99" height="30" width="40" /></a>
