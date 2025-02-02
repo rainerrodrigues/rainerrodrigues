@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rainer but</h1>
-<h3 align="center">Glad to see you stalking my coding work! I am a developer dabbling in Mechatronics and Artificial Intelligence.</h3>
+<h1 align="center">Hi 👋, I'm Rainer</h1>
+<h3 align="center">Glad to see you interested in my coding work! I am an engineer dabbling in Mechatronics, Artificial Intelligence, and anything in between!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rainerrodrigues&label=Profile%20views&color=0e75b6&style=flat" alt="rainerrodrigues" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [K-Map-Solver](https://github.com/rainerrodrigues/K_Map_Solver)
 
-- 🌱 I’m currently learning **Sui, Julia and R**
+- 🌱 I’m currently learning **MyHdl,Tcl,Perl, Julia and R**
 
 - 👯 I’m looking to collaborate on [Exercism Julia, R and Haskell track](https://exercism.org/tracks)
 
