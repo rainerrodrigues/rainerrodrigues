@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rainerrodrigues?tab=repositories](https://github.com/rainerrodrigues?tab=repositories)
 
-- 📝 I regularly write articles on [https://rainerrodrigues.org/](https://rainerrodrigues.org/)
+- 📝 I regularly write articles on [AppliedKaos](https://appliedkaos.blogspot.com/)
 
 - 💬 Ask me about **Languages, History, Geography and Geopolitics**
 
