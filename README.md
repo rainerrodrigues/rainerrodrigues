@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rainerrodrigues" alt="rainerrodrigues" /></a> </p>
 
-- 🔭 I’m currently working on [K-Map-Solver](https://github.com/rainerrodrigues/K_Map_Solver)
+- 🔭 I’m currently working on [HBM modelling on Swarm Communication for Aerial Robots](https://github.com/rainerrodrigues/SwarmRobotics)
 
-- 🌱 I’m currently learning **MyHdl,Tcl,Perl, Julia and R**
+- 🌱 I’m currently learning **Julia, Rust and SystemVerilog**
 
 - 👯 I’m looking to collaborate on [Exercism Julia, R and Haskell track](https://exercism.org/tracks)
 
