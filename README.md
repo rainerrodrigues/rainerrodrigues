@@ -56,6 +56,10 @@
   </table>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rainerrodrigues&theme=transparent&hide_border=true" alt="Streak Stats" />
 </div>
+<h3 align="center">My Contribution Graph</h3>
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="800" />
+</p>
 
 ---
 
