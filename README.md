@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rainerrodrigues" alt="rainerrodrigues" /></a> </p>
 
-- 🔭 I’m currently working on [HBM modelling on Swarm Communication for Aerial Robots](https://github.com/rainerrodrigues/SwarmRobotics)
+- 🔭 I’m currently working on [Digital Twin modelling on AUV](https://github.com/rainerrodrigues/AUV-Digital-Twin)
 
 - 🌱 I’m currently learning **Julia, Rust and SystemVerilog**
 
