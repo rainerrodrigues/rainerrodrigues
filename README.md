@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/rainerrodrigues">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Mechatronics+Engineer;AI+Enthusiast;Digital+Twin+Modelling;Learning+Julia,+Rust,+%26+SystemVerilog" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Mechatronics+Engineer;PINN+Speedup+Optimization;Digital+Twin+Modeling;Learning+Julia,+Rust,+%26+SystemVerilog" alt="Typing SVG" />
   </a>
 </p>
 
