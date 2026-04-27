@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[Digital Twin modelling on AUV](https://github.com/rainerrodrigues/AUV-Digital-Twin)**
+- 🔭 I’m currently working on **Polyhedral Motion Planning**
 - 🌱 I’m currently learning **Julia, Rust, and SystemVerilog**
 - 👯 I’m looking to collaborate on **[Exercism Julia, R, and Haskell tracks](https://exercism.org/tracks)**
 - 🤝 I’m looking for help with **professional mentorship and open-source contributions**
